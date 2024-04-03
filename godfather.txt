@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Keep your enemies close, but your friends distant.
+=======
+KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
+>>>>>>> feature-rename-files
