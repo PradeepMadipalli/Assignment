@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Keep your enemies close, but your friends distant.
-=======
 KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
->>>>>>> feature-rename-files
-=======
-KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
->>>>>>> c92e29f (Change godfather.txt)
-=======
-
-KEEP YOUR FRIENDS CLOSE, BUT YOUR ENEMIES CLOSER.
-
-
-
->>>>>>> 59030880ff15598d0097d5d664f16598966c4a5e
