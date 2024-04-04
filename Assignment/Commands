@@ -1,0 +1,15 @@
+- Command to initialize git repository  --- git init
+- Command to clone remote repository --- git clone https://github.com/pradeepmadipalli/GitAssignment.git
+- Command to stage all changes --- git add .
+- Command to view state of working directory and staging area --- git status
+- Command to create new branch --- git branch feature-rename-files
+- Command to change branch --- git checkout feature-rename-files
+- Command to clean staging area --- git reset
+- Command to get commits and changes from remote branch (It should not merge changes in 
+current branch). --- git fetch origin master:feature-rename-files
+- Command to get commits and changes from remote branch (It should merge changes in 
+current branch). --- git pull origin master
+- Command to cherry pick commit which SHA => 092018283103810930 --- git cherry-pick 092018283103810930
+- Command to push branch --- git push origin feature-rename-files
+- Command to delete remote branch --- git push origin --delete feature-rename-files
+- Command to do iterative rebase --- git rebase -i master
